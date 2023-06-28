@@ -1,0 +1,1 @@
+# nuxt-supabase-prisma-starter
